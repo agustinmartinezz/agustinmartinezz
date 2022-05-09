@@ -7,7 +7,7 @@
  
   <p>Welcome! My name is Agustin and im an IT Student at ORT University from Uruguay 🇺🇾</p>
   <p>Im also a Ssr. Genexus Analyst currently working at Geocom S.A.</p>
-  <p>I absolutely love learning about programming and this is just the beggining.</p>
+  <p>I absolutely love programming and this is just the beggining.</p>
   <br>
   <div id="badges">
     <a href="https://www.linkedin.com/in/agust%C3%ADn-mart%C3%ADnez-0483ba198/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
