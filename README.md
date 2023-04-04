@@ -6,7 +6,7 @@
   </h1>
  
   <p>Welcome! My name is Agustin and im an IT Student at ORT University from Uruguay 🇺🇾</p>
-  <p>Im also a Ssr. Genexus Analyst currently working at GEOCOM S.A.</p>
+  <p>Im also a Sr. Genexus Analyst currently working at GEOCOM S.A.</p>
   <p>I absolutely love programming and this is just the beggining.</p>
   <br>
   <div id="badges">
